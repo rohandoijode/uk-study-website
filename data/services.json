@@ -1,0 +1,54 @@
+{
+  "academic": {
+    "title": "Academic Support Services",
+    "icon": "fas fa-graduation-cap",
+    "items": [
+      "Course selection and degree planning",
+      "Study abroad guidance",
+      "Transfer credit assistance",
+      "One-on-one tutoring",
+      "Peer-assisted learning",
+      "Drop-in subject-specific help",
+      "Academic writing and ESL support",
+      "Thesis/dissertation coaching",
+      "Proofreading and citation help",
+      "Literature search training",
+      "Reference management tools",
+      "Database access and workshops",
+      "Study skills workshops",
+      "Technology & digital literacy",
+      "Specialized learning support"
+    ]
+  },
+  "career": {
+    "title": "Career Support Services",
+    "icon": "fas fa-briefcase",
+    "items": [
+      "Career coaching & planning",
+      "Personality and strength assessments",
+      "Goal-setting & transition support",
+      "CV, resume & cover letter help",
+      "Industry-specific resume tailoring",
+      "Mock interviews",
+      "Employer-specific interview tips",
+      "Internship & job listings",
+      "Application assistance",
+      "Networking & mentorship",
+      "Career fairs & employer events",
+      "LinkedIn & personal branding",
+      "Entrepreneurship & start-up support",
+      "Postgraduate study guidance"
+    ]
+  },
+  "additional": {
+    "title": "Additional Support Services",
+    "icon": "fas fa-hands-helping",
+    "items": [
+      "Workshops & seminars",
+      "Work-based learning & placements",
+      "Volunteering & community engagement",
+      "Visa & international student support",
+      "Cultural adjustment resources"
+    ]
+  }
+}
